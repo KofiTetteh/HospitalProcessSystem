@@ -2,7 +2,7 @@
  
 This is a hospital management system that allows hospital administrators to manage patient information, staff information, and appointments.
 
-Features
+# Features
 
 Patient management: Allows administrators to manage patient information, including patient history, test results, and medication records.
 Staff management: Allows administrators to manage staff information, including their personal information, work schedule, and job description.
@@ -24,11 +24,11 @@ Install  MySQL on your system.
 Create a MySQL database and import the database.sql file.
 
 
-Usage
+# Usage
 
 After starting the server, the system can be accessed by navigating to http://localhost:5000 in a web browser.
 
-Contributing
+# Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
 
