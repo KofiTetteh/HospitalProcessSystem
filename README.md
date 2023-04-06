@@ -28,7 +28,7 @@ Create a MySQL database and import the database.sql file.
 
 # Usage
 
-After starting the server, the system can be accessed by navigating to http://localhost:5000 in a web browser.
+After starting the server, the system can be accessed by navigating to http://localhost in a web browser.
 
 # Contributing
 
