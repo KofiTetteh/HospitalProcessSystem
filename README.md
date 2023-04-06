@@ -15,7 +15,8 @@ This system is built using the following technologies:
 
 Database: MySQL
 Front-end: HTML, CSS, PHP
-Installation
+
+# Installation
 
 To install and run the system, follow these steps:
 
